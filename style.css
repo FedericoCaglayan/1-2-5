@@ -1,0 +1,190 @@
+/* Your styles here */
+
+header img {
+    width: 150px;
+    margin-left: 20px;
+    padding-bottom: 8px;
+    padding-top: 2px;
+}
+#logo {
+    background-color: rgb(35, 35, 60);
+    
+    
+}
+p{
+    display: inline-block;
+    color: white;
+    
+    
+    
+}
+#background {
+    background-color:#324c6e;
+    padding-bottom: 10px;
+}
+#p6 {
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+   background-color: rgb(251, 106, 54);
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: white;
+   margin-bottom: 30px;
+   
+    
+}
+#p1 {
+    padding-left: 30px;
+    padding-right: 15px;
+}
+#p2 {
+    padding-right: 15px;
+}
+#p3 {
+    padding-right: 15px;
+}
+#p4 {
+    padding-right: 15px;
+}
+#p5 {
+    padding-right: 15px;
+}
+main {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#background2 { 
+    color: black;
+    background-image: url(bg-image.png);
+    padding-bottom: 180px;
+    background-size: 100%;
+}
+#background3 {
+    background-image: url(bg-image.png);
+    padding-bottom: 70px;
+    background-size: 100%;
+    
+    
+
+}
+#h3_1 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    font-size: 35px;
+    color: white;
+    
+    
+  
+    
+}
+#h6_1 {
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    color: white;
+    margin-bottom: -40px;
+    padding-top: 40px; 
+    
+}
+#p7 {
+    color: black; 
+    padding-right: 10px;
+    
+   
+    
+  
+   
+}
+.container {
+    background-color: white;
+    margin-top: 30px;
+    padding-bottom: 25px;
+    
+}
+
+
+
+body {
+   background-color: rgb(236, 228, 228);
+}
+
+.immagins {
+    display: inline-block;
+    width: 24%;
+    
+}
+.immagins img {
+    width: 350px;
+    height: 400px;
+    padding-top: 50px;
+    padding-left: 80px;
+    
+    
+
+
+}
+#img5 {
+    
+
+}
+#img9 { width: 100%;
+    height: 100%;
+    padding-top: 30px;
+    padding-bottom: 40px;
+
+}
+
+#p10 {
+
+    color: black;
+    display: flex;
+    justify-content: center;
+
+    
+}
+#a1 {
+    display: flex;
+    justify-content: center;
+}
+#img10 {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 30px;
+}
+ 
+#p11 {
+    display: flex;
+    justify-content: center;
+    color: black;
+    margin-top: -20px;
+    
+} 
+ #a2 {
+    display: flex; 
+    justify-content: center;
+    padding-bottom: 20px;
+    
+    
+ }
+ #containerrr { 
+    background-color: #324c6e;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+ }
+ #logo2 {
+    width: 150px;
+    padding-left: 54em;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background-color:  rgb(35, 35, 60);
+    padding-right: 56em;
+
+ }
+ 
+
